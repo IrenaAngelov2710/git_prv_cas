@@ -1,0 +1,12 @@
+
+commit a904aecb288b25e8db12eb379d85bc48bd828d43 (HEAD -> main, origin/main)
+Author: IrenaAngelov2710 <kitanovska.irena93@gmail.com>
+Date:   Fri Mar 24 18:00:39 2023 +0100
+
+    moite licni podatoci
+
+commit 7ae617ec59148a73dc812d6476fd598304678b2e
+Author: IrenaAngelov2710 <kitanovska.irena93@gmail.com>
+Date:   Fri Mar 24 17:57:33 2023 +0100
+
+    new changes
